@@ -1,0 +1,39 @@
+EMPLOYEE ANALYTICS REPORT
+Generated: 2026-08-08 11:48
+Total Employees Analyzed: 500
+==================================================
+
+1. OVERALL METRICS
+   Average Salary: $64,107.24
+   Median Salary: $62,101.11
+   Average Performance Score: 5.97/10
+   Average Tenure: 3.8 years
+
+2. EMPLOYEE DISTRIBUTION BY DEPARTMENT
+   Sales       :  130 employees (26.0%)
+   Engineering :  111 employees (22.2%)
+   Marketing   :   86 employees (17.2%)
+   Finance     :   76 employees (15.2%)
+   Support     :   55 employees (11.0%)
+   HR          :   42 employees (8.4%)
+
+3. TOP-PERFORMING DEPARTMENTS (by avg performance score)
+   #1 Support     : 6.26/10
+   #2 HR          : 6.18/10
+   #3 Finance     : 6.05/10
+   #4 Engineering : 6.04/10
+   #5 Marketing   : 6.02/10
+   #6 Sales       : 5.63/10
+
+4. AVERAGE SALARY BY DEPARTMENT
+   Engineering : $88,616.96
+   Finance     : $71,298.13
+   Marketing   : $61,011.76
+   Sales       : $54,316.63
+   HR          : $48,766.10
+   Support     : $44,402.34
+
+5. PERFORMANCE BAND SUMMARY
+   Medium  : 316 employees
+   High    : 129 employees
+   Low     : 55 employees
