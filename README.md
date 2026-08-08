@@ -23,8 +23,8 @@ python run_dashboard.py
 
 ## Sample output
 
-![Department Performance](charts/1_department_performance.png)
-![Salary Distribution](charts/2_salary_distribution.png)
+![Department Performance](Charts/1_department_performance.png)
+![Salary Distribution](Charts/2_salary_distribution.png)
 
 ## Project structure
 ```
